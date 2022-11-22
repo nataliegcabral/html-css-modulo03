@@ -12,7 +12,7 @@
  
  ### Capítulo 19:
  
- Nesse módulo, nós aprendemos a alinhar e posicionar imagens e fundos adaptáveis ao tamanho da tela ou dispositivo dos nossos visitantes.
+ Nesse capítulo, nós aprendemos a alinhar e posicionar imagens e fundos adaptáveis ao tamanho da tela ou dispositivo dos nossos visitantes.
  
  "fundo01.html" - Exercício da aula 02, teste de imagem de fundo.
  
@@ -24,7 +24,7 @@
  
  "fundo05.html" - Exercício da aula 04, continuação do estudo de posicionamento, mas agora com uma imagem com seus pontos definidos.
  
- "fundo06.html" - Exercício da aula 05 e 06, fixação da imagem de fundo na tela e anotações sobre o uso de shorthand no elemento background e os tipos de background-size.
+ "fundo06.html" - Exercício das aulas 05 e 06, fixação da imagem de fundo na tela e anotações sobre o uso de shorthand no elemento background e os tipos de background-size.
  
  "fundo07.html" - Exercício da aula 07, entendendo o alinhamento vertical da forma mais utilizada, usando os elementos position, para configurar top e left, e transform, para ajustar a imagem, não só o elemento, para o ponto central do site.
  
@@ -40,13 +40,13 @@
  
  Foi feito o estudo sobre tabelas e como elas funcionam.
  
- "tabela01.html" - Exercício da aula 02 e 03, criando a primeira tabela em HTML.
+ "tabela01.html" - Exercício das aulas 02 e 03, criando a primeira tabela em HTML.
  
- "tabela02.html" - Exercício da aula 04 e 05, alinhando os conteúdos de uma tabela com padding, text-align e vertical-align.
+ "tabela02.html" - Exercício das aulas 04 e 05, alinhando os conteúdos de uma tabela com padding, text-align e vertical-align.
  
- "tabela03.html" - Exercício da aula 03, criando uma tabela grande e aprendendo a anatomia das tabelas, com thead, tbody e tfoot e a função do elemento caption e escopo.
+ "tabela03.html" - Exercício da aula 06, criando uma tabela grande e aprendendo a anatomia das tabelas, com thead, tbody e tfoot e a função do elemento caption e escopo.
  
- 
+ *README INCOMPLETO, ADICIONAREI O RESTO EM BREVE*
  
  
  
